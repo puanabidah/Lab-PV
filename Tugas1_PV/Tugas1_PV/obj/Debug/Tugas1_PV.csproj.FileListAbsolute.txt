@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\bin\Debug\Tugas1_PV.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\bin\Debug\Tugas1_PV.pdb
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\obj\Debug\Tugas1_PV.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\obj\Debug\Tugas1_PV.MainForm.resources
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\obj\Debug\Tugas1_PV.csproj.GenerateResource.Cache
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\obj\Debug\Tugas1_PV.exe
+C:\Users\LENOVO\OneDrive\Documents\SharpDevelop Projects\Lab_PV\Tugas1_PV\Tugas1_PV\obj\Debug\Tugas1_PV.pdb
